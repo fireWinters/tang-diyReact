@@ -1,0 +1,24 @@
+{
+  "name": "yd-react",
+  "description": "1.createElement(虚拟dom) 2.render 3.Concurrent Mode 4.Fibers 5.Render and Commit Phases 6.Reconciliation 7.Function Components 8.Hooks",
+  "version": "1.0.0",
+  "main": "webpack.cofnig.js",
+  "dependencies": {
+    "eslint-scope": "^5.1.1",
+    "mime-types": "^2.1.35"
+  },
+  "scripts": {
+    "dev": "webpack --mode development"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/plugin-transform-react-jsx": "^7.17.3",
+    "@babel/preset-env": "^7.16.11",
+    "babel-loader": "^8.2.3",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
